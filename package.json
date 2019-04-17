@@ -1,0 +1,13 @@
+{
+    "name": "curbie-styling",
+    "version": "0.0.1",
+    "description": "Basic Styling toolset",
+    "scripts": {
+        "deploy": "gh-pages -d build"
+    },
+    "author": "kiranbandi",
+    "license": "MIT",
+    "devDependencies": {
+        "gh-pages": "^1.2.0"
+    }
+}
